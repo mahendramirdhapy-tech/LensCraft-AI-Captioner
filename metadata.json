@@ -1,0 +1,5 @@
+{
+  "name": "LensCraft AI Captioner",
+  "description": "Intelligent image captioning tool with quota management and robust AI fallback strategies.",
+  "requestFramePermissions": []
+}
